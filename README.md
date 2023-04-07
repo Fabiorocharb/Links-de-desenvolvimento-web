@@ -1,7 +1,7 @@
 
 <h2> 🎯 Objetivo do repositório:</h2>
 
-<p><em>Demonstrar sites e links para o dia-a-dia, livre de direitos autorais.</em></p> 
+<p><em>Demonstrar sites e links para o dia-a-dia, livres de direitos autorais.</em></p> 
 
 <img src="https://img.shields.io/bower/l/html?style=flat-square"/>
 
